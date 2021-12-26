@@ -3,7 +3,7 @@ email:       mjt@mijit.com
 author:      michael j talarczyk
 description: "little words, big ideas"
 baseurl:     "/pixyll"
-url:         "http://mijit.com"
+url:         "https://talarczykco.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
