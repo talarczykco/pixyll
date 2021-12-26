@@ -7,7 +7,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=315
 slug: 2008-02-05-three-little-words
 ---
-<img src='/images/2008/02/adamy.jpg' alt='adamy.jpg' />
+<img src='{{ "/" | relative_url }}images/2008/02/adamy.jpg' alt='adamy.jpg' />
 
 <blockquote>What's pleasing to the eye
 In the delusion of my sight

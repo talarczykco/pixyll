@@ -8,7 +8,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=121
 slug: 2007-06-02-in-black-ink-my-love-may-still-shine-bright
 ---
-<img src='/images/2007/06/078931495901lzzzzzzz.jpg' alt='the fountain' href="https://thefountainmovie.warnerbros.com/" />
+<img src='{{ "/" | relative_url }}images/2007/06/078931495901lzzzzzzz.jpg' alt='the fountain' href="https://thefountainmovie.warnerbros.com/" />
 <blockquote>Since brass, nor stone, nor earth, nor boundless sea,
 But sad mortality o'er-sways their power,
 How with this rage shall beauty hold a plea,

@@ -8,7 +8,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=139
 slug: 2007-06-28-pluralism
 ---
-<img src='/images/2007/06/dd2.jpg' alt='dd2' width="90%"/>
+<img src='{{ "/" | relative_url }}images/2007/06/dd2.jpg' alt='dd2' width="90%"/>
 
 <blockquote>4. Like dice.
 That's plural.

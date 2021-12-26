@@ -7,7 +7,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=184
 slug: 2007-09-07-the-man-with-the-blue-guitar
 ---
-<img src='/images/2007/12/picassooldguitarist.jpg' alt='picassooldguitarist.jpg' />
+<img src='{{ "/" | relative_url }}images/2007/12/picassooldguitarist.jpg' alt='picassooldguitarist.jpg' />
 –Pablo Picasso
 
 <blockquote>I

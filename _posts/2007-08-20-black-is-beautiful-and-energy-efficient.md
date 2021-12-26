@@ -11,7 +11,7 @@ check out <a href="https://www.risingphoenixdesign.com/">Rising Phoenix Design</
 
 i promise i won't say "i told you so".
 
-<a href="https://www.risingphoenixdesign.com/blackback.html"><img src='/images/2007/08/blackback.png' alt='blackback' width="565" /></a>
+<a href="https://www.risingphoenixdesign.com/blackback.html"><img src='{{ "/" | relative_url }}images/2007/08/blackback.png' alt='blackback' width="565" /></a>
 
 or, check out <a href="https://ecoiron.blogspot.com/">ecoIron</a>, with their textual analysis of how a <a href="https://ecoiron.blogspot.com/2007/01/black-google-would-save-3000-megawatts.html">Black Google Would Save 750 Megawatt-hours a Year</a>:
 

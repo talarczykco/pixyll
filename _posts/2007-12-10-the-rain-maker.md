@@ -15,4 +15,4 @@ In true European fashion he said: "They call you the rain maker, will you tell m
 
 –- From <a href="https://www.amazon.com/exec/obidos/ASIN/1556433794/ref=nosim/mijitcom">The Nature Writings of C. G. Jung</a></blockquote>
 
-<div align="center"><img src='/images/2008/01/tao1.gif' alt='tao1.gif' /></div>
+<div align="center"><img src='{{ "/" | relative_url }}images/2008/01/tao1.gif' alt='tao1.gif' /></div>

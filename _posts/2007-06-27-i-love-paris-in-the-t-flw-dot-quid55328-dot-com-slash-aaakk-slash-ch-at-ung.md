@@ -8,4 +8,4 @@ layout: post
 wpurl: https://www.mijit.com/?p=137
 slug: 2007-06-27-i-love-paris-in-the-t-flw-dot-quid55328-dot-com-slash-aaakk-slash-ch-at-ung
 ---
-<img src='/images/2007/06/lv-night.jpg' alt='paris, las vegas, running windows' />
+<img src='{{ "/" | relative_url }}images/2007/06/lv-night.jpg' alt='paris, las vegas, running windows' />

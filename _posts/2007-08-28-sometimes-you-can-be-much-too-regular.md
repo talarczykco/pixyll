@@ -7,7 +7,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=172
 slug: 2007-08-28-sometimes-you-can-be-much-too-regular
 ---
-<a href='https://www.somethingawful.com/d/photoshop-phriday/grindhouse-breakfast-cereals.php?page=2' title='the bran eaters'><img src='/images/2007/08/the-bran-eaters.jpg' alt='the bran eaters'  width="450"/></a>
+<a href='https://www.somethingawful.com/d/photoshop-phriday/grindhouse-breakfast-cereals.php?page=2' title='the bran eaters'><img src='{{ "/" | relative_url }}images/2007/08/the-bran-eaters.jpg' alt='the bran eaters'  width="450"/></a>
 
 via <a href="https://boingboing.net/">boingboing</a>, via <a href="https://www.somethingawful.com/">somethingawful:</a>
 

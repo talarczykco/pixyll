@@ -8,7 +8,7 @@ wpurl: https://www.mijit.com/?p=319
 slug: 2008-02-08-obi-wan-has-taught-me-well
 ---
 <blockquote>
-<img src='/images/2008/02/starwars.jpg' width="500" alt='starwars.jpg' />
+<img src='{{ "/" | relative_url }}images/2008/02/starwars.jpg' width="500" alt='starwars.jpg' />
 
 There is a saying that is the underlying principle of <a href="https://www.shambhala.org/teachers/pema/tonglen1.php">tonglen</a> and slogan practice: <strong>"Gain and victory to others, loss and defeat to myself."</strong> The Tibetan word for pride or arrogance, which is <a href="https://rywiki.tsadra.org/index.php/mkhas_pa'i_nga_gyal">nga-gyal</a>, is literally in English "me-victorious." Me first. Ego. That kind of "me-victorious" attitude is the cause of all suffering.
 

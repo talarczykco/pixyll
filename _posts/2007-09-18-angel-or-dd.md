@@ -8,7 +8,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=202
 slug: 2007-09-18-angel-or-dd
 ---
-<img src='/images/2007/09/2_9.jpg' alt='daredevil' />
+<img src='{{ "/" | relative_url }}images/2007/09/2_9.jpg' alt='daredevil' />
 
 <blockquote>SOME say the world will end in fire,
 Some say in ice.

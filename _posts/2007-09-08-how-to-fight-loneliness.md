@@ -8,7 +8,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=186
 slug: 2007-09-08-how-to-fight-loneliness
 ---
-<img src='/images/2007/09/wilco_07_low.jpg' alt='wilco' />
+<img src='{{ "/" | relative_url }}images/2007/09/wilco_07_low.jpg' alt='wilco' />
 
 <blockquote><strong>How to fight loneliness
 Smile all the time

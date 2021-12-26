@@ -10,7 +10,7 @@ slug: 2007-05-07-which-way-from-here
 ---
 from <a href="https://www.firefluff.co.uk/gallery1.php?artworkID=26">Lisa Evans</a>:
 
-<a href='/images/2007/05/alice.jpg' title='alice and the cheshire cat'><img src='/images/2007/05/alice.jpg' alt='alice and the cheshire cat' /></a>
+<a href='/images/2007/05/alice.jpg' title='alice and the cheshire cat'><img src='{{ "/" | relative_url }}images/2007/05/alice.jpg' alt='alice and the cheshire cat' /></a>
 
 <blockquote>"But I don't want to go among mad people," Alice remarked.
 "Oh, you can't help that," said the Cat: "we're all mad here. I'm mad. You're mad."

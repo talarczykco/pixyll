@@ -7,7 +7,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=274
 slug: 2007-12-08-ever-onward-ever-upward
 ---
-<img src='/images/2007/12/john.jpg' alt='john.jpg' />
+<img src='{{ "/" | relative_url }}images/2007/12/john.jpg' alt='john.jpg' />
 
 <blockquote>December 8, 2007
 

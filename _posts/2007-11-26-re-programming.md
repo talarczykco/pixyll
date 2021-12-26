@@ -7,7 +7,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=238
 slug: 2007-11-26-re-programming
 ---
-<img src='/images/2007/11/6591060-0-large.jpg' alt='recording' width="500"/>
+<img src='{{ "/" | relative_url }}images/2007/11/6591060-0-large.jpg' alt='recording' width="500"/>
 
 <strong>Consciousness is emotional</strong>
 

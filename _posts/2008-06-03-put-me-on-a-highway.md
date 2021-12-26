@@ -7,7 +7,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=374
 slug: 2008-06-03-put-me-on-a-highway
 ---
-<a href='https://www.amazon.com/exec/obidos/ASIN/B000002GVS/ref=nosim/mijitcom'><img src="/images/2008/06/61e6heslocl_sl500_aa240_.jpg" alt="" width="240" height="240" class="alignnone size-medium wp-image-375" /></a>
+<a href='https://www.amazon.com/exec/obidos/ASIN/B000002GVS/ref=nosim/mijitcom'><img src="{{ "/" | relative_url }}images/2008/06/61e6heslocl_sl500_aa240_.jpg" alt="" width="240" height="240" class="alignnone size-medium wp-image-375" /></a>
 
 <blockquote>All alone at the end of the of the evening
 And the bright lights have faded to blue

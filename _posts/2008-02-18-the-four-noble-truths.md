@@ -7,7 +7,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=332
 slug: 2008-02-18-the-four-noble-truths
 ---
-<img src='/images/2008/02/buddha-japanese-sm-at-b-56.jpg' alt='buddha-japanese-sm-at-b-56.jpg' />
+<img src='{{ "/" | relative_url }}images/2008/02/buddha-japanese-sm-at-b-56.jpg' alt='buddha-japanese-sm-at-b-56.jpg' />
 
 <blockquote>
 <strong>1.</strong> Life means suffering.

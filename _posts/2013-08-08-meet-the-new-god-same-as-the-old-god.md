@@ -7,7 +7,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=1023
 slug: 2013-08-08-meet-the-new-god-same-as-the-old-god
 ---
-<a href="/images/2013/08/ipadrelease182.jpg"><img src="/images/2013/08/ipadrelease182.jpg" alt="Apple iPad Release" width="660" height="440" class="alignnone size-full wp-image-1025" /></a>
+<a href="/images/2013/08/ipadrelease182.jpg"><img src="{{ "/" | relative_url }}images/2013/08/ipadrelease182.jpg" alt="Apple iPad Release" width="660" height="440" class="alignnone size-full wp-image-1025" /></a>
 
 <blockquote>“Much ink has been spilled drafting the Steve Jobs encomium. But <strong>Jobs and Apple are interesting for far more than technological prowess — they provide an allegory for reading religion in the information age.</strong> They are further evidence that shifts in popular religion throughout history are accompanied by changes in the media environment: when the dominant modes of communication change, so do the frameworks for religious belief. Still, this shift would require a fitting mythology”¦
 

@@ -8,7 +8,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=170
 slug: 2007-08-27-body-mind-spirit-in-the-matrix-trilogy
 ---
-<img src='/images/2007/08/oracle.jpg' alt='neo and the oracle' />
+<img src='{{ "/" | relative_url }}images/2007/08/oracle.jpg' alt='neo and the oracle' />
 
 via: <a href="https://in.integralinstitute.org/default.aspx">integral naked</a>:
 

@@ -8,7 +8,7 @@ wpurl: https://www.mijit.com/?p=519
 slug: 2009-01-17-me-ourselves-and-we
 ---
 <blockquote>
-<img src="/images/2009/01/avalokitesvarabig-224x300.jpg" alt="" title="avalokitesvarabig" align="left" width="224" height="300" class="alignnone size-medium wp-image-520" />
+<img src="{{ "/" | relative_url }}images/2009/01/avalokitesvarabig-224x300.jpg" alt="" title="avalokitesvarabig" align="left" width="224" height="300" class="alignnone size-medium wp-image-520" />
 
 The Buddha, which literally means "the awakened one," said <strong>"My form appeared like a dream to sentient beings who are like a dream. I taught them dreamlike teaching to attain dreamlike enlightenment."</strong> When we begin to awaken to the dreamlike nature of reality, we realize we are all characters in each other's dream. Like reflections in a mirror, we are all interconnected aspects of each other's being.
 

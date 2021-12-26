@@ -8,7 +8,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=229
 slug: 2007-11-02-no-ceiling
 ---
-<a href="https://www.amazon.com/exec/obidos/ASIN/B000ULQV0W/ref=nosim/mijitcom"><img src='/images/2007/11/51r-20zk8il_aa240_.jpg' alt='into the wild' /></a>
+<a href="https://www.amazon.com/exec/obidos/ASIN/B000ULQV0W/ref=nosim/mijitcom"><img src='{{ "/" | relative_url }}images/2007/11/51r-20zk8il_aa240_.jpg' alt='into the wild' /></a>
 
 <blockquote>Comes the morning
 When I can feel

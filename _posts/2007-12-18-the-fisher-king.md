@@ -8,7 +8,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=287
 slug: 2007-12-18-the-fisher-king
 ---
-<a href="https://www.uidaho.edu/student_orgs/arthurian_legend/grail/fisher/"><img src='/images/2007/12/fishy.jpg' alt='fishy.jpg' /></a>
+<a href="https://www.uidaho.edu/student_orgs/arthurian_legend/grail/fisher/"><img src='{{ "/" | relative_url }}images/2007/12/fishy.jpg' alt='fishy.jpg' /></a>
 
 <blockquote><strong>Of the many symbols evident within the framework of the Grail motif, the Fisher King stands as perhaps the most abstract and enigmatic.</strong> Many Arthurian scholars have tried to encapsulate his significance over the years. Jessie Weston, for one, argued convincingly in her groundbreaking work, From Ritual to Romance, that the Fisher King is derived from pagan fertility rituals, and that beneath the surface of the numerous legends can be discerned the rites of primitive cults. Others, such as Heinzel and Nutt, have suggested that the Fisher King can be reduced, instead, to his archetypal status as the keeper of the Holy Grail, a position which entrenches him firmly within the iconography of esoteric Christianity. And still other scholars hold that the Fisher King is an amalgam, initially appearing in the wake of the Third Crusade, developed as a means for fusing the colliding Occidental and Oriental cultures.
 

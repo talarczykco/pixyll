@@ -9,4 +9,4 @@ slug: 2007-12-09-make-art-not-war
 ---
 artist unknown:
 
-<img src='/images/2007/12/anti-warmakeartnotwar.jpg' alt='anti-warmakeartnotwar.jpg' />
+<img src='{{ "/" | relative_url }}images/2007/12/anti-warmakeartnotwar.jpg' alt='anti-warmakeartnotwar.jpg' />

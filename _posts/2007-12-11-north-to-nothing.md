@@ -9,7 +9,7 @@ wpurl: https://www.mijit.com/?p=279
 slug: 2007-12-11-north-to-nothing
 ---
 <p>
-<img src='/images/2007/12/wrens.jpg' alt='wrens.jpg' />
+<img src='{{ "/" | relative_url }}images/2007/12/wrens.jpg' alt='wrens.jpg' />
 <a href="https://www.wrens.com/">The Wrens</a>, photo by <a href="https://depts.washington.edu/kexp/blog/?p=2561">Gregory A. Perez</a>
 </p>
 

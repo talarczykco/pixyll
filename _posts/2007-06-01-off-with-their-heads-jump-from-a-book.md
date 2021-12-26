@@ -8,7 +8,7 @@ layout: post
 wpurl: https://www.mijit.com/?p=119
 slug: 2007-06-01-off-with-their-heads-jump-from-a-book
 ---
-<a href='https://www.despair.com' title='get to work!'><img src='/images/2007/06/gettowork.jpg' alt='get to work!' /></a>
+<a href='https://www.despair.com' title='get to work!'><img src='{{ "/" | relative_url }}images/2007/06/gettowork.jpg' alt='get to work!' /></a>
 
 <blockquote>
 <strong>Go without,
