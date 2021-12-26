@@ -1,14 +1,14 @@
-# Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       mijit.com 
+email:       mjt@mijit.com
+author:      michael j talarczyk
+description: "little words, big ideas"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://talarczykco.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
+#  - contact.html
+copyright_notice: "&copy;now by michael j talarczyk (except where it obviously isn't)"
 
 # Google services
 google_verification:
@@ -23,7 +23,7 @@ bing_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -40,10 +40,6 @@ fb_page_id:
 # (leave blank to disable Disqus)
 disqus_shortname:
 
-# txtpen post comments
-# (leave blank to disable txtpen)
-txtpen_sitename:
-
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
 facebook_comments:
@@ -55,7 +51,7 @@ github_username:
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: mijit
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -83,8 +79,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: '« newer'
+    older: 'older »'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
@@ -119,7 +115,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     5
 sass:
   style: compressed
 plugins:
@@ -129,6 +125,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Rakefile
+  - README.md
+  - screenshot.png
   - vendor
-
-theme: jekyll-theme-minimal
