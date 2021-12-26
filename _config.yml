@@ -130,4 +130,4 @@ exclude:
   - screenshot.png
   - vendor
 
-theme: talarczykco/pixyll
+theme: jekyll-theme-minimal
