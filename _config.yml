@@ -8,7 +8,7 @@ date_format: "%b %-d, %Y"
 header_pages:
  - about.md
 #  - contact.html
-copyright_notice: "&copy;now by michael j talarczyk (except where it obviously isn't)"
+copyright_notice: "&copy;NOW by Michael Talarczyk (except where obviously it isn't)"
 
 # Google services
 google_verification:
